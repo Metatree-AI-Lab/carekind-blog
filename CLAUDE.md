@@ -25,3 +25,7 @@ careKind Blog 独立仓库；作为 Company OS 的 `07-marketing-ops/blog/` subm
 - `README.md`：用途、仓库关系与当前状态。
 - `AGENTS.md`：指向本文件的软链接。
 - `CHANGELOG.md`：本仓库变更摘要；Company OS 另记 AI 修改记录。
+
+## 每日新闻写作
+- `DAILY-BLOG.md`：每日 08:00 Brisbane 新闻研究与草稿规范。
+- `articles/`：文章 Markdown 草稿；联网核实，人工审核，不自动提交、推送或发布。
